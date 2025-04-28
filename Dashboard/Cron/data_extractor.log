@@ -1,0 +1,522 @@
+2024-09-10 11:34:05,545 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 11:51:57,119 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 11:54:49,351 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 12:24:09,516 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 12:25:04,838 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 12:28:49,348 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 12:33:35,441 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (1146, "Table 'mtn_vas.django_cron_cronjoblog' doesn't exist")
+2024-09-10 12:34:54,540 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (1146, "Table 'mtn_vas.django_cron_cronjoblog' doesn't exist")
+2024-09-10 12:35:46,174 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (1146, "Table 'mtn_vas.django_cron_cronjoblog' doesn't exist")
+2024-09-10 12:36:02,197 - INFO - Extraction commencée à 2024-09-10 12:36:02.197113
+2024-09-10 12:36:03,278 - INFO - Traitement de la feuille: Janvier
+2024-09-10 12:36:03,411 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx créé.
+2024-09-10 12:36:03,436 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:03,436 - INFO - Traitement de la feuille: January Error
+2024-09-10 12:36:03,436 - INFO - Traitement de la feuille: Fevrier
+2024-09-10 12:36:03,494 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:03,530 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:03,530 - INFO - Traitement de la feuille: Fev Error
+2024-09-10 12:36:03,531 - INFO - Traitement de la feuille: Mars
+2024-09-10 12:36:03,589 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:03,638 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:03,638 - INFO - Traitement de la feuille: March Error
+2024-09-10 12:36:03,638 - INFO - Traitement de la feuille: Avril
+2024-09-10 12:36:03,702 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:03,774 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:03,774 - INFO - Traitement de la feuille: April Error
+2024-09-10 12:36:03,774 - INFO - Traitement de la feuille: Mai
+2024-09-10 12:36:03,850 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:03,932 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:03,932 - INFO - Traitement de la feuille: May Error
+2024-09-10 12:36:03,932 - INFO - Traitement de la feuille: Juin
+2024-09-10 12:36:04,031 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:04,251 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:04,251 - INFO - Traitement de la feuille: Juin Error
+2024-09-10 12:36:04,251 - INFO - Traitement de la feuille: Juillet
+2024-09-10 12:36:04,328 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:04,417 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:04,417 - INFO - Traitement de la feuille: Juillet Error
+2024-09-10 12:36:04,417 - INFO - Traitement de la feuille: Aout
+2024-09-10 12:36:04,487 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:04,605 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:04,605 - INFO - Traitement de la feuille: Aout Error
+2024-09-10 12:36:04,605 - INFO - Traitement de la feuille: Septembre
+2024-09-10 12:36:04,721 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:04,878 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:04,878 - INFO - Traitement de la feuille: Septembre error
+2024-09-10 12:36:04,878 - INFO - Traitement de la feuille: Octobre
+2024-09-10 12:36:04,962 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:05,186 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:05,187 - INFO - Traitement de la feuille: Octobre Error
+2024-09-10 12:36:05,187 - INFO - Traitement de la feuille: Novembre
+2024-09-10 12:36:05,260 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:05,379 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:05,380 - INFO - Traitement de la feuille: November Error
+2024-09-10 12:36:05,380 - INFO - Traitement de la feuille: Decembre
+2024-09-10 12:36:05,432 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:05,546 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:05,546 - INFO - Traitement de la feuille: December Error
+2024-09-10 12:36:05,546 - INFO - Traitement de la feuille: Jan 2024
+2024-09-10 12:36:05,655 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:05,771 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:05,771 - INFO - Traitement de la feuille: Jan Error
+2024-09-10 12:36:05,771 - INFO - Traitement de la feuille: Feb 2024
+2024-09-10 12:36:05,853 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:06,002 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:06,003 - INFO - Traitement de la feuille: Feb'24 Error
+2024-09-10 12:36:06,003 - INFO - Traitement de la feuille: Mar_2024
+2024-09-10 12:36:06,159 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:06,328 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:06,328 - INFO - Traitement de la feuille: Mar'24 Error
+2024-09-10 12:36:06,328 - INFO - Traitement de la feuille: April_2024
+2024-09-10 12:36:06,411 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:06,663 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:06,663 - INFO - Traitement de la feuille: Apr'24 Error
+2024-09-10 12:36:06,663 - INFO - Traitement de la feuille: May'24
+2024-09-10 12:36:06,730 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:06,896 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:06,897 - INFO - Traitement de la feuille: May'24_error
+2024-09-10 12:36:06,897 - INFO - Traitement de la feuille: June 24
+2024-09-10 12:36:06,946 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:07,176 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:07,176 - INFO - Traitement de la feuille: June'24 Error
+2024-09-10 12:36:07,176 - INFO - Traitement de la feuille: July 24
+2024-09-10 12:36:07,233 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:07,413 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:07,414 - INFO - Traitement de la feuille: July'24 Error
+2024-09-10 12:36:07,414 - INFO - Traitement de la feuille: details
+2024-09-10 12:36:07,658 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:24,151 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:24,151 - INFO - Traitement de la feuille: Aug 24
+2024-09-10 12:36:24,223 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx existe déjà.
+2024-09-10 12:36:46,050 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxsdonnees_normales.xlsx
+2024-09-10 12:36:46,050 - INFO - Traitement de la feuille: Aug 24 error
+2024-09-10 12:43:34,993 - INFO - Extraction commencée à 2024-09-10 12:43:34.993859
+2024-09-10 12:43:35,609 - INFO - Traitement de la feuille: Janvier
+2024-09-10 12:43:35,711 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx créé.
+2024-09-10 12:43:35,731 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:35,731 - INFO - Traitement de la feuille: January Error
+2024-09-10 12:43:35,731 - INFO - Traitement de la feuille: Fevrier
+2024-09-10 12:43:35,785 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:35,815 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:35,815 - INFO - Traitement de la feuille: Fev Error
+2024-09-10 12:43:35,816 - INFO - Traitement de la feuille: Mars
+2024-09-10 12:43:35,877 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:35,919 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:35,919 - INFO - Traitement de la feuille: March Error
+2024-09-10 12:43:35,919 - INFO - Traitement de la feuille: Avril
+2024-09-10 12:43:35,989 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:36,040 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:36,040 - INFO - Traitement de la feuille: April Error
+2024-09-10 12:43:36,040 - INFO - Traitement de la feuille: Mai
+2024-09-10 12:43:36,108 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:36,195 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:36,195 - INFO - Traitement de la feuille: May Error
+2024-09-10 12:43:36,195 - INFO - Traitement de la feuille: Juin
+2024-09-10 12:43:36,262 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:36,437 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:36,437 - INFO - Traitement de la feuille: Juin Error
+2024-09-10 12:43:36,437 - INFO - Traitement de la feuille: Juillet
+2024-09-10 12:43:36,517 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:36,612 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:36,612 - INFO - Traitement de la feuille: Juillet Error
+2024-09-10 12:43:36,612 - INFO - Traitement de la feuille: Aout
+2024-09-10 12:43:36,686 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:36,791 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:36,791 - INFO - Traitement de la feuille: Aout Error
+2024-09-10 12:43:36,791 - INFO - Traitement de la feuille: Septembre
+2024-09-10 12:43:36,856 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:36,960 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:36,960 - INFO - Traitement de la feuille: Septembre error
+2024-09-10 12:43:36,960 - INFO - Traitement de la feuille: Octobre
+2024-09-10 12:43:37,020 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:37,192 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:37,192 - INFO - Traitement de la feuille: Octobre Error
+2024-09-10 12:43:37,192 - INFO - Traitement de la feuille: Novembre
+2024-09-10 12:43:37,258 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:37,394 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:37,394 - INFO - Traitement de la feuille: November Error
+2024-09-10 12:43:37,394 - INFO - Traitement de la feuille: Decembre
+2024-09-10 12:43:37,453 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:37,559 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:37,559 - INFO - Traitement de la feuille: December Error
+2024-09-10 12:43:37,559 - INFO - Traitement de la feuille: Jan 2024
+2024-09-10 12:43:37,679 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:37,792 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:37,792 - INFO - Traitement de la feuille: Jan Error
+2024-09-10 12:43:37,792 - INFO - Traitement de la feuille: Feb 2024
+2024-09-10 12:43:37,847 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:37,990 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:37,990 - INFO - Traitement de la feuille: Feb'24 Error
+2024-09-10 12:43:37,990 - INFO - Traitement de la feuille: Mar_2024
+2024-09-10 12:43:38,117 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:38,262 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:38,262 - INFO - Traitement de la feuille: Mar'24 Error
+2024-09-10 12:43:38,262 - INFO - Traitement de la feuille: April_2024
+2024-09-10 12:43:38,333 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:38,654 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:38,654 - INFO - Traitement de la feuille: Apr'24 Error
+2024-09-10 12:43:38,654 - INFO - Traitement de la feuille: May'24
+2024-09-10 12:43:38,720 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:38,890 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:38,890 - INFO - Traitement de la feuille: May'24_error
+2024-09-10 12:43:38,890 - INFO - Traitement de la feuille: June 24
+2024-09-10 12:43:38,939 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:39,149 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:39,149 - INFO - Traitement de la feuille: June'24 Error
+2024-09-10 12:43:39,150 - INFO - Traitement de la feuille: July 24
+2024-09-10 12:43:39,200 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:39,357 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:39,357 - INFO - Traitement de la feuille: July'24 Error
+2024-09-10 12:43:39,357 - INFO - Traitement de la feuille: details
+2024-09-10 12:43:39,575 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:43:49,698 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:43:49,698 - INFO - Traitement de la feuille: Aug 24
+2024-09-10 12:43:49,746 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 12:44:05,250 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 12:44:05,250 - INFO - Traitement de la feuille: Aug 24 error
+2024-09-10 12:46:14,907 - INFO - Extraction commencée à 2024-09-10 12:46:14.907844
+2024-09-10 12:46:14,907 - ERROR - Erreur lors du traitement du fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/StatsMoMo 2024.xlsx: [Errno 13] Permission denied: 'C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/StatsMoMo 2024.xlsx'
+2024-09-10 12:49:40,308 - INFO - Extraction commencée à 2024-09-10 12:49:40.308223
+2024-09-10 12:49:40,309 - ERROR - Erreur lors du traitement du fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/StatsMoMo 2024.xlsx: [Errno 13] Permission denied: 'C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/StatsMoMo 2024.xlsx'
+2024-09-10 14:11:22,175 - INFO - Cron class 'MyCronJob' does not have a code attribute
+2024-09-10 14:11:42,922 - INFO - Extraction commencée à 2024-09-10 14:11:42.922479
+2024-09-10 14:11:44,279 - INFO - Traitement de la feuille: Janvier
+2024-09-10 14:11:44,455 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx créé.
+2024-09-10 14:11:44,496 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:44,496 - INFO - Traitement de la feuille: January Error
+2024-09-10 14:11:44,496 - INFO - Traitement de la feuille: Fevrier
+2024-09-10 14:11:44,592 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:44,637 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:44,637 - INFO - Traitement de la feuille: Fev Error
+2024-09-10 14:11:44,638 - INFO - Traitement de la feuille: Mars
+2024-09-10 14:11:44,713 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:44,773 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:44,773 - INFO - Traitement de la feuille: March Error
+2024-09-10 14:11:44,774 - INFO - Traitement de la feuille: Avril
+2024-09-10 14:11:44,833 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:44,881 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:44,882 - INFO - Traitement de la feuille: April Error
+2024-09-10 14:11:44,882 - INFO - Traitement de la feuille: Mai
+2024-09-10 14:11:44,936 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:44,985 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:44,985 - INFO - Traitement de la feuille: May Error
+2024-09-10 14:11:44,985 - INFO - Traitement de la feuille: Juin
+2024-09-10 14:11:45,033 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:45,186 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:45,186 - INFO - Traitement de la feuille: Juin Error
+2024-09-10 14:11:45,186 - INFO - Traitement de la feuille: Juillet
+2024-09-10 14:11:45,237 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:45,319 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:45,319 - INFO - Traitement de la feuille: Juillet Error
+2024-09-10 14:11:45,319 - INFO - Traitement de la feuille: Aout
+2024-09-10 14:11:45,388 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:45,473 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:45,473 - INFO - Traitement de la feuille: Aout Error
+2024-09-10 14:11:45,473 - INFO - Traitement de la feuille: Septembre
+2024-09-10 14:11:45,529 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:45,616 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:45,616 - INFO - Traitement de la feuille: Septembre error
+2024-09-10 14:11:45,617 - INFO - Traitement de la feuille: Octobre
+2024-09-10 14:11:45,675 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:45,872 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:45,872 - INFO - Traitement de la feuille: Octobre Error
+2024-09-10 14:11:45,873 - INFO - Traitement de la feuille: Novembre
+2024-09-10 14:11:45,950 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:46,091 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:46,091 - INFO - Traitement de la feuille: November Error
+2024-09-10 14:11:46,091 - INFO - Traitement de la feuille: Decembre
+2024-09-10 14:11:46,171 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:46,325 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:46,325 - INFO - Traitement de la feuille: December Error
+2024-09-10 14:11:46,325 - INFO - Traitement de la feuille: Jan 2024
+2024-09-10 14:11:46,478 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:46,673 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:46,673 - INFO - Traitement de la feuille: Jan Error
+2024-09-10 14:11:46,673 - INFO - Traitement de la feuille: Feb 2024
+2024-09-10 14:11:46,741 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:46,875 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:46,875 - INFO - Traitement de la feuille: Feb'24 Error
+2024-09-10 14:11:46,875 - INFO - Traitement de la feuille: Mar_2024
+2024-09-10 14:11:46,977 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:47,103 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:47,103 - INFO - Traitement de la feuille: Mar'24 Error
+2024-09-10 14:11:47,103 - INFO - Traitement de la feuille: April_2024
+2024-09-10 14:11:47,153 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:47,338 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:47,338 - INFO - Traitement de la feuille: Apr'24 Error
+2024-09-10 14:11:47,338 - INFO - Traitement de la feuille: May'24
+2024-09-10 14:11:47,388 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:47,533 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:47,533 - INFO - Traitement de la feuille: May'24_error
+2024-09-10 14:11:47,533 - INFO - Traitement de la feuille: June 24
+2024-09-10 14:11:47,590 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:47,876 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:47,876 - INFO - Traitement de la feuille: June'24 Error
+2024-09-10 14:11:47,876 - INFO - Traitement de la feuille: July 24
+2024-09-10 14:11:47,949 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:48,169 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:48,169 - INFO - Traitement de la feuille: July'24 Error
+2024-09-10 14:11:48,169 - INFO - Traitement de la feuille: details
+2024-09-10 14:11:48,428 - INFO - Extraction des données de la feuille 'détail'.
+2024-09-10 14:11:48,436 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx créé.
+2024-09-10 14:11:48,738 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx
+2024-09-10 14:11:48,739 - INFO - Traitement de la feuille: Aug 24
+2024-09-10 14:11:48,828 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-10 14:11:49,339 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-10 14:11:49,339 - INFO - Traitement de la feuille: Aug 24 error
+2024-09-12 08:29:08,074 - INFO - Extraction commencée à 2024-09-12 08:29:08.074041
+2024-09-12 08:29:09,290 - INFO - Traitement de la feuille: Janvier
+2024-09-12 08:29:09,451 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:09,674 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:09,674 - INFO - Traitement de la feuille: January Error
+2024-09-12 08:29:09,674 - INFO - Traitement de la feuille: Fevrier
+2024-09-12 08:29:09,743 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:10,067 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:10,068 - INFO - Traitement de la feuille: Fev Error
+2024-09-12 08:29:10,068 - INFO - Traitement de la feuille: Mars
+2024-09-12 08:29:10,172 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:10,394 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:10,394 - INFO - Traitement de la feuille: March Error
+2024-09-12 08:29:10,394 - INFO - Traitement de la feuille: Avril
+2024-09-12 08:29:10,438 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:10,666 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:10,666 - INFO - Traitement de la feuille: April Error
+2024-09-12 08:29:10,666 - INFO - Traitement de la feuille: Mai
+2024-09-12 08:29:10,718 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:10,931 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:10,932 - INFO - Traitement de la feuille: May Error
+2024-09-12 08:29:10,932 - INFO - Traitement de la feuille: Juin
+2024-09-12 08:29:10,972 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:11,218 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:11,218 - INFO - Traitement de la feuille: Juin Error
+2024-09-12 08:29:11,219 - INFO - Traitement de la feuille: Juillet
+2024-09-12 08:29:11,264 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:11,477 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:11,477 - INFO - Traitement de la feuille: Juillet Error
+2024-09-12 08:29:11,477 - INFO - Traitement de la feuille: Aout
+2024-09-12 08:29:11,520 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:11,722 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:11,722 - INFO - Traitement de la feuille: Aout Error
+2024-09-12 08:29:11,722 - INFO - Traitement de la feuille: Septembre
+2024-09-12 08:29:11,774 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:11,958 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:11,958 - INFO - Traitement de la feuille: Septembre error
+2024-09-12 08:29:11,958 - INFO - Traitement de la feuille: Octobre
+2024-09-12 08:29:12,018 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:12,252 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:12,252 - INFO - Traitement de la feuille: Octobre Error
+2024-09-12 08:29:12,253 - INFO - Traitement de la feuille: Novembre
+2024-09-12 08:29:12,300 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:12,533 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:12,533 - INFO - Traitement de la feuille: November Error
+2024-09-12 08:29:12,533 - INFO - Traitement de la feuille: Decembre
+2024-09-12 08:29:12,583 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:12,815 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:12,815 - INFO - Traitement de la feuille: December Error
+2024-09-12 08:29:12,815 - INFO - Traitement de la feuille: Jan 2024
+2024-09-12 08:29:12,870 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:13,115 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:13,115 - INFO - Traitement de la feuille: Jan Error
+2024-09-12 08:29:13,115 - INFO - Traitement de la feuille: Feb 2024
+2024-09-12 08:29:13,166 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:13,417 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:13,417 - INFO - Traitement de la feuille: Feb'24 Error
+2024-09-12 08:29:13,417 - INFO - Traitement de la feuille: Mar_2024
+2024-09-12 08:29:13,480 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:13,769 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:13,769 - INFO - Traitement de la feuille: Mar'24 Error
+2024-09-12 08:29:13,769 - INFO - Traitement de la feuille: April_2024
+2024-09-12 08:29:13,819 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:14,083 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:14,083 - INFO - Traitement de la feuille: Apr'24 Error
+2024-09-12 08:29:14,083 - INFO - Traitement de la feuille: May'24
+2024-09-12 08:29:14,131 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:14,297 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:14,297 - INFO - Traitement de la feuille: May'24_error
+2024-09-12 08:29:14,298 - INFO - Traitement de la feuille: June 24
+2024-09-12 08:29:14,338 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:14,612 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:14,613 - INFO - Traitement de la feuille: June'24 Error
+2024-09-12 08:29:14,613 - INFO - Traitement de la feuille: July 24
+2024-09-12 08:29:14,694 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:15,024 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:15,024 - INFO - Traitement de la feuille: July'24 Error
+2024-09-12 08:29:15,024 - INFO - Traitement de la feuille: details
+2024-09-12 08:29:15,242 - INFO - Extraction des données de la feuille 'détail'.
+2024-09-12 08:29:15,243 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx existe déjà.
+2024-09-12 08:29:15,622 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx
+2024-09-12 08:29:15,622 - INFO - Traitement de la feuille: Aug 24
+2024-09-12 08:29:15,691 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 08:29:15,949 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 08:29:15,949 - INFO - Traitement de la feuille: Aug 24 error
+2024-09-12 14:37:12,478 - INFO - Extraction commencée à 2024-09-12 14:37:12.478738
+2024-09-12 14:37:13,380 - INFO - Traitement de la feuille: Janvier
+2024-09-12 14:37:13,656 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx créé.
+2024-09-12 14:37:13,720 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:13,721 - INFO - Traitement de la feuille: January Error
+2024-09-12 14:37:13,721 - INFO - Traitement de la feuille: Fevrier
+2024-09-12 14:37:13,867 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:13,927 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:13,928 - INFO - Traitement de la feuille: Fev Error
+2024-09-12 14:37:13,928 - INFO - Traitement de la feuille: Mars
+2024-09-12 14:37:14,033 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:14,126 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:14,127 - INFO - Traitement de la feuille: March Error
+2024-09-12 14:37:14,127 - INFO - Traitement de la feuille: Avril
+2024-09-12 14:37:14,206 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:14,260 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:14,260 - INFO - Traitement de la feuille: April Error
+2024-09-12 14:37:14,261 - INFO - Traitement de la feuille: Mai
+2024-09-12 14:37:14,311 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:14,374 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:14,375 - INFO - Traitement de la feuille: May Error
+2024-09-12 14:37:14,375 - INFO - Traitement de la feuille: Juin
+2024-09-12 14:37:14,452 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:14,636 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:14,636 - INFO - Traitement de la feuille: Juin Error
+2024-09-12 14:37:14,636 - INFO - Traitement de la feuille: Juillet
+2024-09-12 14:37:14,706 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:14,808 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:14,808 - INFO - Traitement de la feuille: Juillet Error
+2024-09-12 14:37:14,808 - INFO - Traitement de la feuille: Aout
+2024-09-12 14:37:14,869 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:14,949 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:14,949 - INFO - Traitement de la feuille: Aout Error
+2024-09-12 14:37:14,949 - INFO - Traitement de la feuille: Septembre
+2024-09-12 14:37:15,053 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:15,225 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:15,226 - INFO - Traitement de la feuille: Septembre error
+2024-09-12 14:37:15,226 - INFO - Traitement de la feuille: Octobre
+2024-09-12 14:37:15,336 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:15,557 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:15,557 - INFO - Traitement de la feuille: Octobre Error
+2024-09-12 14:37:15,557 - INFO - Traitement de la feuille: Novembre
+2024-09-12 14:37:15,620 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:15,742 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:15,743 - INFO - Traitement de la feuille: November Error
+2024-09-12 14:37:15,743 - INFO - Traitement de la feuille: Decembre
+2024-09-12 14:37:15,799 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:15,908 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:15,908 - INFO - Traitement de la feuille: December Error
+2024-09-12 14:37:15,908 - INFO - Traitement de la feuille: Jan 2024
+2024-09-12 14:37:16,031 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:16,143 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:16,143 - INFO - Traitement de la feuille: Jan Error
+2024-09-12 14:37:16,143 - INFO - Traitement de la feuille: Feb 2024
+2024-09-12 14:37:16,185 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:16,284 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:16,284 - INFO - Traitement de la feuille: Feb'24 Error
+2024-09-12 14:37:16,284 - INFO - Traitement de la feuille: Mar_2024
+2024-09-12 14:37:16,377 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:16,484 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:16,485 - INFO - Traitement de la feuille: Mar'24 Error
+2024-09-12 14:37:16,485 - INFO - Traitement de la feuille: April_2024
+2024-09-12 14:37:16,531 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:16,748 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:16,748 - INFO - Traitement de la feuille: Apr'24 Error
+2024-09-12 14:37:16,748 - INFO - Traitement de la feuille: May'24
+2024-09-12 14:37:16,798 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:16,961 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:16,961 - INFO - Traitement de la feuille: May'24_error
+2024-09-12 14:37:16,961 - INFO - Traitement de la feuille: June 24
+2024-09-12 14:37:17,049 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:17,385 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:17,385 - INFO - Traitement de la feuille: June'24 Error
+2024-09-12 14:37:17,385 - INFO - Traitement de la feuille: July 24
+2024-09-12 14:37:17,439 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:17,626 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:17,626 - INFO - Traitement de la feuille: July'24 Error
+2024-09-12 14:37:17,626 - INFO - Traitement de la feuille: details
+2024-09-12 14:37:17,752 - INFO - Extraction des données de la feuille 'détail'.
+2024-09-12 14:37:17,759 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx créé.
+2024-09-12 14:37:18,038 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx
+2024-09-12 14:37:18,039 - INFO - Traitement de la feuille: Aug 24
+2024-09-12 14:37:18,087 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:37:18,289 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:37:18,289 - INFO - Traitement de la feuille: Aug 24 error
+2024-09-12 14:48:33,191 - INFO - Extraction commencée à 2024-09-12 14:48:33.191149
+2024-09-12 14:48:33,814 - INFO - Traitement de la feuille: Janvier
+2024-09-12 14:48:33,922 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx créé.
+2024-09-12 14:48:33,941 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:33,941 - INFO - Traitement de la feuille: January Error
+2024-09-12 14:48:33,941 - INFO - Traitement de la feuille: Fevrier
+2024-09-12 14:48:33,981 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,000 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,000 - INFO - Traitement de la feuille: Fev Error
+2024-09-12 14:48:34,002 - INFO - Traitement de la feuille: Mars
+2024-09-12 14:48:34,053 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,083 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,083 - INFO - Traitement de la feuille: March Error
+2024-09-12 14:48:34,083 - INFO - Traitement de la feuille: Avril
+2024-09-12 14:48:34,134 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,169 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,169 - INFO - Traitement de la feuille: April Error
+2024-09-12 14:48:34,169 - INFO - Traitement de la feuille: Mai
+2024-09-12 14:48:34,274 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,343 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,344 - INFO - Traitement de la feuille: May Error
+2024-09-12 14:48:34,344 - INFO - Traitement de la feuille: Juin
+2024-09-12 14:48:34,444 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,517 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,517 - INFO - Traitement de la feuille: Juin Error
+2024-09-12 14:48:34,517 - INFO - Traitement de la feuille: Juillet
+2024-09-12 14:48:34,620 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,694 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,694 - INFO - Traitement de la feuille: Juillet Error
+2024-09-12 14:48:34,694 - INFO - Traitement de la feuille: Aout
+2024-09-12 14:48:34,849 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:34,889 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:34,889 - INFO - Traitement de la feuille: Aout Error
+2024-09-12 14:48:34,889 - INFO - Traitement de la feuille: Septembre
+2024-09-12 14:48:34,992 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,049 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,049 - INFO - Traitement de la feuille: Septembre error
+2024-09-12 14:48:35,049 - INFO - Traitement de la feuille: Octobre
+2024-09-12 14:48:35,097 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,153 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,153 - INFO - Traitement de la feuille: Octobre Error
+2024-09-12 14:48:35,153 - INFO - Traitement de la feuille: Novembre
+2024-09-12 14:48:35,204 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,275 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,275 - INFO - Traitement de la feuille: November Error
+2024-09-12 14:48:35,275 - INFO - Traitement de la feuille: Decembre
+2024-09-12 14:48:35,349 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,424 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,424 - INFO - Traitement de la feuille: December Error
+2024-09-12 14:48:35,424 - INFO - Traitement de la feuille: Jan 2024
+2024-09-12 14:48:35,546 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,635 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,635 - INFO - Traitement de la feuille: Jan Error
+2024-09-12 14:48:35,635 - INFO - Traitement de la feuille: Feb 2024
+2024-09-12 14:48:35,691 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,787 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,787 - INFO - Traitement de la feuille: Feb'24 Error
+2024-09-12 14:48:35,787 - INFO - Traitement de la feuille: Mar_2024
+2024-09-12 14:48:35,846 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:35,940 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:35,940 - INFO - Traitement de la feuille: Mar'24 Error
+2024-09-12 14:48:35,940 - INFO - Traitement de la feuille: April_2024
+2024-09-12 14:48:36,191 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:36,342 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:36,342 - INFO - Traitement de la feuille: Apr'24 Error
+2024-09-12 14:48:36,342 - INFO - Traitement de la feuille: May'24
+2024-09-12 14:48:36,443 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:36,627 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:36,627 - INFO - Traitement de la feuille: May'24_error
+2024-09-12 14:48:36,628 - INFO - Traitement de la feuille: June 24
+2024-09-12 14:48:36,695 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:36,865 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:36,865 - INFO - Traitement de la feuille: June'24 Error
+2024-09-12 14:48:36,865 - INFO - Traitement de la feuille: July 24
+2024-09-12 14:48:36,930 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:37,023 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:37,023 - INFO - Traitement de la feuille: July'24 Error
+2024-09-12 14:48:37,023 - INFO - Traitement de la feuille: details
+2024-09-12 14:48:37,159 - INFO - Extraction des données de la feuille 'détail'.
+2024-09-12 14:48:37,166 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx créé.
+2024-09-12 14:48:37,435 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_detail.xlsx
+2024-09-12 14:48:37,435 - INFO - Traitement de la feuille: Aug 24
+2024-09-12 14:48:37,482 - INFO - Fichier C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx existe déjà.
+2024-09-12 14:48:37,569 - INFO - Données sauvegardées dans C:/Users/gael/OneDrive/Documents/Projet Soutenance/MTN_APP/VAS_APP/Dashboard/static/xlxs/donnees_normales.xlsx
+2024-09-12 14:48:37,569 - INFO - Traitement de la feuille: Aug 24 error

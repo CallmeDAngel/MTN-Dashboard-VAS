@@ -1,0 +1,2 @@
+superuser:admin
+mdp:admin

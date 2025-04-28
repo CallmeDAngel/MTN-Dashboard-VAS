@@ -1,0 +1,2 @@
+2024-09-10 10:29:40,501 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")
+2024-09-10 10:39:32,357 - ERROR - Error saving cronjob (<class 'Dashboard.Cron.extract_data.MyCronJob'>) log message: (2002, "Can't connect to server on 'localhost' (10061)")

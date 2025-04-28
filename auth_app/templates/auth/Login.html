@@ -1,0 +1,54 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'css/Login.css' %}">
+    <title>Connexion</title>
+</head>
+<body style="background-image: url(/static/image/fond.jpeg); padding: 0; margin: 0; font-family: 'SF Pro Text'; font-weight: 500;">
+    <div class="split-screen">
+        <div class="left">
+            <section class="copy">
+                <h1>Bienvenue sur</h1>
+            </section>
+        </div>
+        <div class="right">
+            <form action="" method="POST">
+                {% csrf_token %}
+                <section class="copy">
+                    <h2>Connexion</h2>
+                </section>
+
+                <!-- Afficher les messages d'erreur -->
+                {% if messages %}
+                <div class="error-messages">
+                    {% for message in messages %}
+                    <div class="alert alert-{{ message.tags }}">{{ message }}</div>
+                    {% endfor %}
+                </div>
+                {% endif %}
+
+                <div class="input-container username">
+                    <label for="username">Nom d'utilisateur</label>
+                    {{ form.username }}
+                </div>
+                <div class="input-container password">
+                    <label for="password">Mot de passe</label>
+                    {{ form.password }}
+                    <div class="error"></div>
+                </div>
+                <button class="signup-btn" type="submit">Connexion</button>
+                <section class="copy legal">
+                    <p>
+                        <span class="small">En continuant, vous acceptez notre <br />
+                        <a href="#">Politique de confidentialité</a> et <a href="#">Conditions d'utilisation</a></span>
+                    </p>
+                </section>
+            </form>
+        </div>
+    </div>
+    <script src="script.js" charset="utf-8"></script>
+</body>
+</html>
